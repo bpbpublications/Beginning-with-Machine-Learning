@@ -3,7 +3,7 @@
 A step-by-step guide to get started with Machine Learning
 
 This is the repository for [Beginning with Machine Learning
-](https://in.bpbonline.com/products/beginning-with-machine-learning?variant=43824935403758),published by BPB Publications. 
+](https://bpbonline.com/products/beginning-with-machine-learning),published by BPB Publications. 
 
 ## About the Book
 Should I choose supervised learning or reinforcement learning? Which algorithm is best suited for my application? How does deep learning advance the capacities of problem-solving? If you have found yourself asking these questions, this book is specially developed for you.
